@@ -1,10 +1,4 @@
 {
-  "additionalFiles": "",
-  "builtInLibrariesFolders": "C:\\Users\\Wow\\AppData\\Local\\Arduino15\\libraries",
-  "compiler.optimization_flags": "-Os",
-  "customBuildProperties": "",
-  "fqbn": "espressif:esp32:esp32:UploadSpeed=115200,CPUFreq=240,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
-  "hardwareFolders": "c:\\Users\\Wow\\AppData\\Local\\Arduino15\\packages,c:\\Users\\Wow\\Documents\\Arduino\\hardware",
-  "otherLibrariesFolders": "c:\\Users\\Wow\\Documents\\Arduino\\libraries",
-  "sketchLocation": "C:\\Users\\Wow\\Desktop\\RenaultRC_Megan2_V3"
+  "version": "16",
+  "bin": "https://github.com/stels616/RenaultRC/blob/main/firmware.bin"
 }
