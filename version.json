@@ -1,4 +1,4 @@
 {
   "version": "16",
-  "bin": "https://github.com/stels616/RenaultRC/blob/main/firmware.bin"
+  "bin": "https://raw.githubusercontent.com/stels616/RenaultRC/main/firmware.bin"
 }
